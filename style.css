@@ -1,0 +1,13 @@
+form {
+      /* Apenas para centralizar o form na página */
+      margin: 0 auto;
+      width: 400px;/*largura
+      /* Para ver as bordas do formulário */
+      padding: 1em;/*define uma distancia entre o conteudo e de suas bordas*/
+      border: 1px solid #CCC;/*definições da borda*/
+      border-radius: 1em;/*arredonda bordas*/
+}
+/*adicionando espaco entre cada div-essa eu não sabia que fazia assim */
+form div {
+    margin-top: 30px;
+}
